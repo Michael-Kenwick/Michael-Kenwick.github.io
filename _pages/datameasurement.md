@@ -142,7 +142,7 @@ Christopher J. Fariss, Michael R. Kenwick, and Kevin Reuning. 2020. "Estimating 
 
 
  <b> Description </b>
-The Human Rights Scores data measure the extent to which states in the international system respect or abuse physical integrity rights. The measure was original developed by Schnakenberg and Fariss (2014) and refined by Fariss (2014) to account for biases stemming from temporal biases in human rights reports and the increasingly stringent standards by which countries are judged. The fourth version of these data extend the scores temporally, incorporate dynamic modeling techniques to account for rapid changes in respect for human rights, and to generate improved estimates of which states engaged in one-sided killings of their civilians, even in instances where direct evidence of these atrocities is missing. [test!](https://doi.org/10.1177/0022343320965670)
+The Human Rights Scores data measure the extent to which states in the international system respect or abuse physical integrity rights. The measure was original developed by Schnakenberg and Fariss (2014) and refined by Fariss (2014) to account for biases stemming from temporal biases in human rights reports and the increasingly stringent standards by which countries are judged. The fourth version of these data extend the scores temporally, incorporate dynamic modeling techniques to account for rapid changes in respect for human rights, and to generate improved estimates of which states engaged in one-sided killings of their civilians, even in instances where direct evidence of these atrocities is missing.
 
 
 
