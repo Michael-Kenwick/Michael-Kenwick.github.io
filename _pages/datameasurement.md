@@ -26,7 +26,7 @@ The measurement of complex social constructs is often at the center of my resear
 </div>
 
 <center>
-<img src='civiliancontrolscores.jpeg'  style="width:120%">
+<img src='images/datameasurement/civiliancontrolscores.jpeg'  style="width:120%">
 </center>
 <br/>
 
