@@ -8,13 +8,13 @@ author_profile: false
 
 
 
-The measurement of complex social constructs is often at the center of my research program, and I have been involved in the development of several data sources in international realtions, including the Civilian Control Scores dataset (v1), the Borders and Boundaries data set family, the Human Rights Scores data (v4), and the Militarized Interstate Dispute data (v4-5). You can find more information about each of them below. 
+The measurement of complex social constructs is often at the center of my research program, and I have been involved in the development of several data sources in international realtions, including the Civilian Control Scores dataset (v1), the Borders and Boundaries data set family, the Militarized Interstate Dispute data (v4-5), and the Human Rights Scores data (v4). You can find more information about each of them below. 
 {: .text-justify}
 
 
-<a style="text-decoration:none" href="#civilian"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Civilian Control Scores </button> </a> &emsp; <a style="text-decoration:none" href="#borders"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Borders and Boundaries Data </button> </a> &emsp; <a style="text-decoration:none" href="#mid"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> MID Data </button> </a>
+<a style="text-decoration:none" href="#civilian"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Civilian Control Scores </button> </a> &emsp;  <a style="text-decoration:none" href="#borders"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Borders and Boundaries Data Set Family </button> </a> &emsp; 
 
-<a style="text-decoration:none" href="#humanrights"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Human Rights Scores </button> </a>
+<a style="text-decoration:none" href="#mid"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> MID Data (v.4-5) </button> </a> &emsp; <a style="text-decoration:none" href="#humanrights"> <button style="background-color:white;color:#4682B4;border-color:#4682B4;height:40px;border-radius:15px;"> Human Rights Scores (v.4) </button> </a>
 
 
 
@@ -26,10 +26,9 @@ The measurement of complex social constructs is often at the center of my resear
 </div>
 
 <center>
-<img src='images/datameasurement/civiliancontrolscores.jpeg'  style="width:120%">
+<img src='/images/datameasurement/civiliancontrolscores.jpeg'  style="width:120%">
 </center>
 <br/>
-
 
 <b>Access the Data</b>
 
@@ -44,7 +43,7 @@ The measurement of complex social constructs is often at the center of my resear
  </p>
 
 <b> Description </b>
-Civilian control of political institutions is an essential condition for stability in any political regime. Yet, countries vary wildly in the extent to which the armed forces have been removed from political offices, and military coups remain a leading cause of collapse in democracies and autocracies alike. The latent Civilian Control Scores (CCS) data provide a quantitative measure of civilian control, defined as the extent to which civilians dominate political decision-making and the robustness of this dominance to military involvement in politics.
+Civilian control of political institutions is an essential condition for stability in any political regime. Yet, countries vary wildly in the extent to which the armed forces have been removed from political institutions. The latent Civilian Control Scores (CCS) data provide a quantitative measure of civilian control, defined as the extent to which civilians dominate political decision-making and the robustness of this dominance to military involvement in politics.
 
 These scores are available for virtually all countries from 1946 to 2010. Two sets of estimates are available, one static and the other dynamic. The static measure estimates civilian control based exclusively on a country’s political institutions at the outset of a particular year. The dynamic measure includes these elements, but also incorporates history into account using a dynamic modeling structure. The latter was constructed and validated to test  <a style="text-decoration:none; color: #4682B4" href = "https://academic.oup.com/isq/article-abstract/64/1/71/5706039?redirectedFrom=fulltext" target = "blank_"> a theory of self-reinforcing civilian control. </a>
 
@@ -85,7 +84,7 @@ A growing number of researchers are producing new and innovative data sources fo
 </div>
 
 <center>
-<img src='bb_map.jpeg'    style="width:150%">
+<img src='/images/datameasurement/bb_map.jpeg'    style="width:150%">
 </center>
 <br/>
 
@@ -103,7 +102,7 @@ International Border Walls (coming soon)
  </p>
 
  <b> Description </b>
- Throughout the world, states are increasingly building physical infrastructure to project control over their international borders. The Borders and Boundaries family of datasets document these trends. The Border Crossings of the World (BCW) data set tracks the physical infrastructure that states have built at points where highways cross international borders, tagging the presence of gates, official buildings, and split-lane inspections facilities. The international border walls data set documents and geolocates border walls and fences intended to block transnational flows of goods and people. Both types of infrastructure speak to a country’s overall “border orientation” or the extent to which it is committed to the spatial display of its capacity to control the terms of penetration of its national borders. The border orientation scores data set documents whether and where countries have adopted a permissive or controlling orientations based on the infrastructural data sources. The Borders and Boundaries family of data sets is supported by the National Science Foundation <a style="text-decoration:none; color: #4682B4" href = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1917573&HistoricalAwards=false" target = "blank_">(SES:1917573)</a>.
+ Throughout the world, states are increasingly building physical infrastructure to project control over their international borders. The Borders and Boundaries family of datasets document these trends. The Border Crossings of the World (BCW) data set tracks the physical infrastructure that states have built at points where highways cross international borders. The data set tags the presence of gates, official buildings, and split-lane inspections facilities. The international border walls data set documents and geolocates border walls and fences intended to block transnational flows of goods and people. Both types of infrastructure speak to a country’s overall “border orientation” or the extent to which it is committed to the spatial display of its capacity to control the terms of penetration of its national borders. The border orientation scores data set documents whether and where countries have adopted a permissive or controlling orientations based on these infrastructural data sources. The Borders and Boundaries family of data sets is supported by the National Science Foundation <a style="text-decoration:none; color: #4682B4" href = "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1917573&HistoricalAwards=false" target = "blank_">(SES:1917573)</a>.
 <br/>
 
 <div id="mid">
@@ -142,7 +141,7 @@ Christopher J. Fariss, Michael R. Kenwick, and Kevin Reuning. 2020. "Estimating 
 
 
  <b> Description </b>
-The Human Rights Scores data measure the extent to which states in the international system respect or abuse physical integrity rights. The measure was original developed by Schnakenberg and Fariss (2014) and refined by Fariss (2014) to account for biases stemming from temporal biases in human rights reports and the increasingly stringent standards by which countries are judged. The fourth version of these data extend the scores temporally, incorporate dynamic modeling techniques to account for rapid changes in respect for human rights, and to generate improved estimates of which states engaged in one-sided killings of their civilians, even in instances where direct evidence of these atrocities is missing.
+The Human Rights Scores data measure the extent to which states in the international system respect or abuse physical integrity rights. The measure was originally developed by Schnakenberg and Fariss (2014) and refined by Fariss (2014) to account for temporal biases in human rights reports and the increasingly stringent standards by which countries are judged. The fourth version of these data extend the scores temporally, incorporate dynamic modeling techniques to account for rapid changes in respect for human rights, and to generate improved estimates of which states engaged in one-sided killings of their civilians, even in instances where direct evidence of these atrocities is missing.
 
 
 
