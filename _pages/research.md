@@ -13,12 +13,12 @@ author_profile: false
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1017/S0007123422000333" target = "blank_"> <strong>International Influences on the Survival of Territorial Non-state Actors</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/dwl14/">Douglas Lemke</a><br>
 <em> <strong>The British Journal of Political Science </strong>(Online First) </em><br>
-[Replication files]<br><br></li>
+[<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/EFLXKS" target = "blank_">Replication files</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1086/718355" target = "blank_"> <strong>You and Whose Army? How Civilian Leaders Leverage the Military’s Prestige to Shape Public Opinion</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
 <em> <strong>The Journal of Politics </strong> 84(4): 1963-1978 (2022). </em><br>
-[Replication files]<br><br></li>
+[<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/2LH0BZ" target = "blank_">Replication files</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1111/ajps.12687" target = "blank_"><strong>Border Orientation in a Globalizing World</strong></a><br> 
 <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/faculty/simmons3">Beth A. Simmons</a> and Michael R. Kenwick. <br>
@@ -133,11 +133,13 @@ Michael R. Kenwick, Rick McAlexander, and Beth Simmons<br>
 <li><strong>Explaining Public Support for Border Militarization</strong><br>
 Michael R. Kenwick and Sarah Maxey <br><br></li>
 
+<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict</strong><br>
+Michael R. Kenwick <br><br></li>
+
 <li><strong>The Discursive Civil-Military Divide</strong><br>
 Michael R. Kenwick, Burcu Kolcak, and Sumin Lee <br> </li>
 
-<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict</strong><br>
-Michael R. Kenwick <br><br></li></ol>
+</li></ol>
 
 
 
