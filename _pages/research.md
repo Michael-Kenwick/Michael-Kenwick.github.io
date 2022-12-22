@@ -10,19 +10,24 @@ author_profile: false
 <h2> Peer-Reviewed Publications </h2>
 
 <ol>
+<li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1017/S0007123422000333" target = "blank_"> <strong>International Influences on the Survival of Territorial Non-state Actors</strong></a><br>
+Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/dwl14/">Douglas Lemke</a><br>
+<em> <strong>The British Journal of Political Science </strong>(Online First) </em><br>
+[Replication files]<br><br></li>
+
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1086/718355" target = "blank_"> <strong>You and Whose Army? How Civilian Leaders Leverage the Military’s Prestige to Shape Public Opinion</strong></a><br>
-Michael R. Kenwick and Sarah Maxey<br>
-<em> <strong>The Journal of Politics. </strong>(Forthcoming) </em><br>
+Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
+<em> <strong>The Journal of Politics </strong> 84(4): 1963-1978 (2022). </em><br>
 [Replication files]<br><br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1111/ajps.12687" target = "blank_"><strong>Border Orientation in a Globalizing World</strong></a><br> 
 <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/faculty/simmons3">Beth A. Simmons</a> and Michael R. Kenwick. <br>
-<em> <strong>American Journal of Political Science. </strong>(Forthcoming)  </em><br>
+<em> <strong>American Journal of Political Science </strong>66(4): 853-870 (2022).  </em><br>
 [<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/RRV0JZ" target = "blank_">Replication files</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1177/0738894221995743" target = "blank_"><strong>The MID5 Dataset, 2011-2014: Procedures, Coding Rules, and Description</strong></a>
 <br><a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/gop2">Glenn Palmer</a>, <a style="text-decoration:none; color: #4682B4" href="https://sites.psu.edu/roseannemcmanus/">Roseanne W. McManus</a>, <a style="text-decoration:none; color: #4682B4" href="https://www.vitodorazio.com/">Vito D’Orazio</a>, Michael R. Kenwick,<strong> </strong><a style="text-decoration:none; color: #4682B4" href="https://mikaelakarstens.com/">Mikaela Karstens</a>, <a style="text-decoration:none; color: #4682B4" href="https://sites.psu.edu/chasebloch/">Chase Bloch,</a> <a style="text-decoration:none; color: #4682B4" href="https://nick-dietrich.com/">Nick Dietrich</a>, <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/kpk5494">Kayla Kahn</a>, <a style="text-decoration:none; color: #4682B4" href="https://sites.psu.edu/khr28/">Kellan Ritter</a>, <a style="text-decoration:none; color: #4682B4" href="https://msoules94.wixsite.com/michaeljsoules">Michael J. Soules</a>.<br>
-<em><strong>Conflict Management and Peace Science. </strong>39(4): 470-482 (2022) </em><br>
+<em><strong>Conflict Management and Peace Science. </strong>39(4): 470-482 (2022). </em><br>
 [<a style="text-decoration:none; color: #4682B4" href="https://correlatesofwar.org/data-sets/MIDs" target = "blank_">Data set</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://www.cambridge.org/core/journals/international-organization/article/pandemic-response-as-border-politics/0A9FC8629BF379D0CFFADD0661547DA3" target = "blank_"><strong>Pandemic Response as Border Politics</strong></a><br>
@@ -121,22 +126,18 @@ National Science Foundation</em></strong>, SES: 1917573. <br>Project Award: $476
 
 <h2> Select Working Papers </h2>
 
-<ol><li><strong>International Influences on the Survival of Territorial Non-State Actors</strong><br>
-Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4"  href="https://polisci.la.psu.edu/people/dwl14">Douglas Lemke</a><br>
-<em> (Revise and Resubmit) </em> <br><br></li>
-
 <li><strong>Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset</strong><br>
 Michael R. Kenwick, Rick McAlexander, and Beth Simmons<br>
-<em> (Revise and Resubmit) </em> <br><br></li>
-
-<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict</strong><br>
-Michael R. Kenwick <br><br></li>
+<em> (Forthcoming at the Journal of Peace Research) </em> <br><br></li>
 
 <li><strong>Explaining Public Support for Border Militarization</strong><br>
-Michael R. Kenwick <br><br></li>
+Michael R. Kenwick and Sarah Maxey <br><br></li>
 
 <li><strong>The Discursive Civil-Military Divide</strong><br>
-Michael R. Kenwick, Burcu Kolcak, and Sumin Lee <br> </li></ol>
+Michael R. Kenwick, Burcu Kolcak, and Sumin Lee <br> </li>
+
+<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict</strong><br>
+Michael R. Kenwick <br><br></li></ol>
 
 
 
