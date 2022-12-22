@@ -139,7 +139,6 @@ Michael R. Kenwick <br><br></li>
 <li><strong>The Discursive Civil-Military Divide</strong><br>
 Michael R. Kenwick, Burcu Kolcak, and Sumin Lee <br> </li>
 
-</li></ol>
 
 
 
