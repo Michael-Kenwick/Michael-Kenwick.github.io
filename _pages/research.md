@@ -10,9 +10,16 @@ author_profile: false
 <h2> Peer-Reviewed Publications </h2>
 
 <ol>
+
+
+<li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1177/00223433221145582" target = "blank_"> <strong>Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset</strong></a><br>
+Michael R. Kenwick, <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/faculty/simmons3">Beth A. Simmons</a>, and Richard J. McAlexander<br>
+<em> <strong>The Journal of Peace Research </strong>(Online First) </em><br>
+[<a style="text-decoration:none; color: #4682B4" href="https://cdn.cloud.prio.org/files/a2d2ca9e-75e6-4fb0-9938-c941679e11cd/bcw_replication.zip" target = "blank_">Replication files</a>]<br> <br></li>
+
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1017/S0007123422000333" target = "blank_"> <strong>International Influences on the Survival of Territorial Non-state Actors</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/dwl14/">Douglas Lemke</a><br>
-<em> <strong>The British Journal of Political Science </strong>(Online First) </em><br>
+<em> <strong>The British Journal of Political Science </strong>53(2): 479–497 (2022). </em><br>
 [<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/EFLXKS" target = "blank_">Replication files</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1086/718355" target = "blank_"> <strong>You and Whose Army? How Civilian Leaders Leverage the Military’s Prestige to Shape Public Opinion</strong></a><br>
@@ -43,7 +50,7 @@ Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="htt
 <li><a style="text-decoration:none; color: #4682B4"  href="https://academic.oup.com/isq/advance-article/doi/10.1093/isq/sqz092/5706039?searchresult=1" target = "blank_"> <strong> Self-Reinforcing Civilian Control: A Measurement-Based Analysis of Civil-Military Relations </strong> </a><br>
 Michael R. Kenwick <br>
 <em> <strong>International Studies Quarterly</strong> </em> 64(1): 71-84 (2019)  <br> 
-[<a style="text-decoration:none; color: #4682B4"  href="sqz092_supplement_appendix.pdf" target = "blank_">Appendix</a>] [<a style="text-decoration:none; color: #4682B4"  href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VCFMBI" target = "blank_"> Replication Files</a>] [<a style="text-decoration:none; color: #4682B4"  href="https://dataverse.harvard.edu/dataverse/CivilianControlScores" target = "blank_">Civilian Control Scores v.1</a>]<br> <br></li>
+[<a style="text-decoration:none; color: #4682B4"  href="sqz092_supplement_appendix.pdf" target = "blank_">Appendix</a>] [<a style="text-decoration:none; color: #4682B4"  href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VCFMBI" target = "blank_">Replication Files</a>] [<a style="text-decoration:none; color: #4682B4"  href="https://dataverse.harvard.edu/dataverse/CivilianControlScores" target = "blank_">Civilian Control Scores v.1</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://academic.oup.com/isq/advance-article/doi/10.1093/isq/sqz045/5531765" target = "blank_"> <strong> Updating the Militarized Interstate Dispute Data: A Response to Gibler, Miller, and Little </strong></a><br>
 <a style="text-decoration:none; color: #4682B4" href="http://polisci.la.psu.edu/people/gop2">Glenn Palmer</a> <a style="text-decoration:none; color: #4682B4" href="https://www.vitodorazio.com/">Vito D&#8217;Orazio,</a> & Michael R. Kenwick, and <a style="text-decoration:none; color: #4682B4" href="http://personal.psu.edu/rum842/index.html">Roseanne McManus</a> <br>
@@ -125,19 +132,15 @@ National Science Foundation</em></strong>, SES: 1917573. <br>Project Award: $476
 </li></ol>
 
 <h2> Select Working Papers </h2>
+<ol>
+<li><strong>Border Walls as Cooperation Failures.</strong> Michael R. Kenwick, Gino Pauselli, and Beth A. Simmons. <br> </li>
 
-<li><strong>Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset</strong><br>
-Michael R. Kenwick, Rick McAlexander, and Beth Simmons<br>
-<em> (Forthcoming at the Journal of Peace Research) </em> <br><br></li>
+<li><strong>Explaining Public Support for Border Militarization.</strong> Michael R. Kenwick and Sarah Maxey. <br></li>
 
-<li><strong>Explaining Public Support for Border Militarization</strong><br>
-Michael R. Kenwick and Sarah Maxey <br><br></li>
+<li><strong>The Discursive Civil-Military Divide.</strong> Michael R. Kenwick, Burcu Kolcak, and Sumin Lee. <br> </li>
 
-<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict</strong><br>
-Michael R. Kenwick <br><br></li>
-
-<li><strong>The Discursive Civil-Military Divide</strong><br>
-Michael R. Kenwick, Burcu Kolcak, and Sumin Lee <br> </li>
+<li><strong>Rethinking the Link Between Civil-Military Relations and Interstate Conflict.</strong> Michael R. Kenwick. <br><br></li>
+</ol>
 
 
 

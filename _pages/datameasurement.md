@@ -54,7 +54,7 @@ Full replication files for the article of record are available <a style="text-de
 
 <b> Advice for Practitioners </b>
 
-Latent variable models are an increasingly common way to measure unobservable political phenomena.  You can find a general overview of latent variable modeling <a style="text-decoration:none; color: #4682B4" href = "http://cfariss.com/documents/FarissKenwickReuning2020_MesurementModels.pdf" target = "blank_">here</a>, and a discussion of dynamic modeling strategies <a style="text-decoration:none; color: #4682B4" href = "https://www.cambridge.org/core/journals/political-analysis/article/abs/exploring-the-dynamics-of-latent-variable-models/CBE116F37900DAE957B2D7EB53DB0907" target = "blank_">here</a>. Like many latent variable models, one useful attribute of the CCS is that they include estimates of uncertainty around the latent trait. These can be incorporated in to regression modeling using the same tools applied in <a style="text-decoration:none; color: #4682B4" href = "https://gking.harvard.edu/category/research-interests/methods/missing-data" target = "blank_"> multiple imputation </a>.
+Latent variable models are an increasingly common way to measure unobservable political phenomena.  You can find a general overview of latent variable modeling <a style="text-decoration:none; color: #4682B4" href = "http://cfariss.com/documents/FarissKenwickReuning2020_MesurementModels.pdf" target = "blank_">here</a>, and a discussion of dynamic modeling strategies <a style="text-decoration:none; color: #4682B4" href = "https://www.cambridge.org/core/journals/political-analysis/article/abs/exploring-the-dynamics-of-latent-variable-models/CBE116F37900DAE957B2D7EB53DB0907" target = "blank_">here</a>. Like many latent variable models, one useful attribute of the CCS is that they include estimates of uncertainty around the latent trait. These can be incorporated in to regression modeling using the same tools applied in <a style="text-decoration:none; color: #4682B4" href = "https://gking.harvard.edu/category/research-interests/methods/missing-data" target = "blank_"> multiple imputation. </a>
 
 <!--
 <b> Other Civil-Military Relations Data Sources </b>
@@ -92,13 +92,15 @@ A growing number of researchers are producing new and innovative data sources fo
 
 <p style="margin-left: 40px">
 <a style="text-decoration:none; color: #f85c08" href = "https://doi.org/10.7910/DVN/RRV0JZ" target = "blank_"> Border Orientation Scores </a> <br>
-Border Crossings of the World 2.0 Data (coming soon) <br>
-International Border Walls (coming soon)
+<a style="text-decoration:none; color: #f85c08" href = "https://cdn.cloud.prio.org/files/a2d2ca9e-75e6-4fb0-9938-c941679e11cd/bcw_replication.zip" target = "blank_"> Border Crossings of the World (BCW) </a> <br>
+International Border Walls (coming "soon")
 </p>
 
 <b>Citation of Record</b>
 <p style="margin-left: 40px">
-<a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1111/ajps.12687" target = "blank_"> Beth A. Simmons and Michael R. Kenwick. 2022. “Border Orientation in a Globalizing World.” American Journal of Political Science. (Forthcoming). </a>
+<strong>For BCW:</strong> <a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1111/ajps.12687" target = "blank_"> Michael R. Kenwick, Beth A. Simmons, and Richard J. McAlexander. 2023. “Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset.” The Journal of Peace Research. Online First.</a> <br> <br>
+
+<strong>For Border Orientation Scores:</strong> <a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1111/ajps.12687" target = "blank_"> Beth A. Simmons and Michael R. Kenwick. 2022. “Border Orientation in a Globalizing World.” American Journal of Political Science. 66(4): 853-870.</a>
  </p>
 
  <b> Description </b>
