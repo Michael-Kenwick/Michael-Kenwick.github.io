@@ -8,7 +8,7 @@ author_profile: false
 
 
 
-The measurement of complex social constructs is often at the center of my research program, and I have been involved in the development of several data sources in international realtions, including the Civilian Control Scores dataset (v1), the Borders and Boundaries data set family, the Militarized Interstate Dispute data (v4-5), and the Human Rights Scores data (v4). You can find more information about each of them below. 
+The measurement of complex social constructs is often at the center of my research program, and I have been involved in the development of several data sources in international relations, including the Civilian Control Scores dataset (v1), the Borders and Boundaries data set family, the Militarized Interstate Dispute data (v4-5), and the Human Rights Scores data (v4). You can find more information about each of them below. 
 {: .text-justify}
 
 
