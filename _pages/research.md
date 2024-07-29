@@ -11,11 +11,15 @@ author_profile: false
 
 <ol>
 
+<li> <strong>Explaining Public Demand for Border Militarization</strong></a><br>
+Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
+<em> <strong>The Journal of Conflict Resolution </strong> (Forthcoming). </em><br>
+ <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1177/00223433221145582" target = "blank_"> <strong>Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset</strong></a><br>
 Michael R. Kenwick, <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/faculty/simmons3">Beth A. Simmons</a>, and Richard J. McAlexander<br>
 <em> <strong>The Journal of Peace Research </strong> 61(3): 500-510 (2024). </em><br>
-[<a style="text-decoration:none; color: #4682B4" href="https://cdn.cloud.prio.org/files/a2d2ca9e-75e6-4fb0-9938-c941679e11cd/bcw_replication.zip" target = "blank_">Replication files</a>]<br> <br></li>
+[<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/4SLP4H" target = "blank_">BCW v1.1</a>]<br> <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1017/S0007123422000333" target = "blank_"> <strong>International Influences on the Survival of Territorial Non-state Actors</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/dwl14/">Douglas Lemke</a><br>
