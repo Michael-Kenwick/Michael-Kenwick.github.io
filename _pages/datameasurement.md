@@ -92,7 +92,7 @@ A growing number of researchers are producing new and innovative data sources fo
 
 <p style="margin-left: 40px">
 <a style="text-decoration:none; color: #f85c08" href = "https://doi.org/10.7910/DVN/RRV0JZ" target = "blank_"> Border Orientation Scores </a> <br>
-<a style="text-decoration:none; color: #f85c08" href = "https://cdn.cloud.prio.org/files/a2d2ca9e-75e6-4fb0-9938-c941679e11cd/bcw_replication.zip" target = "blank_"> Border Crossings of the World (BCW) </a> <br>
+<a style="text-decoration:none; color: #f85c08" href = "[https://cdn.cloud.prio.org/files/a2d2ca9e-75e6-4fb0-9938-c941679e11cd/bcw_replication.zip](https://doi.org/10.7910/DVN/4SLP4H)" target = "blank_"> Border Crossings of the World (BCW) </a> <br>
 International Border Walls (coming "soon")
 </p>
 
