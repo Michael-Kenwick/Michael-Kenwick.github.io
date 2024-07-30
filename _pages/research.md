@@ -11,8 +11,8 @@ author_profile: false
 
 <ol>
 
-<li> <strong>Explaining Public Demand for Border Militarization</strong></a><br>
-Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey <br>
+<li> <strong>Explaining Public Demand for Border Militarization</strong><br>
+Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
 <em> <strong>The Journal of Conflict Resolution </strong> (Forthcoming). </em><br>
  <br></li>
 
