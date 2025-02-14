@@ -12,7 +12,7 @@ author_profile: false
 <ol>
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1073/pnas.2417812122" target = "blank_"> <strong>Estimating the Legibility of International Borders</strong></a><br>
 Michael R. Kenwick, Junghyun Lim, Skyler Crane, Scott Wehrwein, and Beth A. Simmons. <br>
-<em> <strong>Proceedings of the National Academy of the Sciences </strong> 122(6):https://doi.org/10.1073/pnas.2417812122 (2025). </em><br>
+<em> <strong>Proceedings of the National Academy of Sciences </strong> 122(6):https://doi.org/10.1073/pnas.2417812122 (2025). </em><br>
  <br></li>
  
 <li><a style="text-decoration:none; color: #4682B4" href="https://journals.sagepub.com/doi/full/10.1177/00220027241268482" target = "blank_"> <strong>Explaining Public Demand for Border Militarization</strong></a><br>
