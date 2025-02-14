@@ -10,16 +10,22 @@ author_profile: false
 <h2> Peer-Reviewed Publications </h2>
 
 <ol>
-
-<li> <strong>Explaining Public Demand for Border Militarization</strong><br>
+<li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1073/pnas.2417812122" target = "blank_"> <strong>Estimating the Legibility of International Borders</strong></a><br>
+Michael R. Kenwick, Junghyun Lim, Skyler Crane, Scott Wehrwein, and Beth A. Simmons. <br>
+<em> <strong>Proceedings of the National Academy of the Sciences </strong> 122(6):https://doi.org/10.1073/pnas.2417812122 (2025). </em><br>
+ <br></li>
+ 
+<li><a style="text-decoration:none; color: #4682B4" href="https://journals.sagepub.com/doi/full/10.1177/00220027241268482" target = "blank_"> <strong>Explaining Public Demand for Border Militarization</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
 <em> <strong>The Journal of Conflict Resolution </strong> (Forthcoming). </em><br>
+ [<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/EKVWUC" target = "blank_">Replication files</a>]<br> 
  <br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1177/00223433221145582" target = "blank_"> <strong>Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset</strong></a><br>
 Michael R. Kenwick, <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/faculty/simmons3">Beth A. Simmons</a>, and Richard J. McAlexander<br>
 <em> <strong>The Journal of Peace Research </strong> 61(3): 500-510 (2024). </em><br>
-[<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/4SLP4H" target = "blank_">BCW v1.1</a>]<br> <br></li>
+[<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/4SLP4H" target = "blank_">BCW v1.1</a>]<br> 
+<br></li>
 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1017/S0007123422000333" target = "blank_"> <strong>International Influences on the Survival of Territorial Non-state Actors</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://polisci.la.psu.edu/people/dwl14/">Douglas Lemke</a><br>
