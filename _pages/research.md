@@ -10,6 +10,12 @@ author_profile: false
 <h2> Peer-Reviewed Publications </h2>
 
 <ol>
+ <li> <strong>Military Experience and Casualty Sensitivity in Elite Discourse: Evidence From the US Wars in Iraq and Afghanistan</strong><br>
+Michael R. Kenwick, Sumin Lee, and Burcu Kolcak <br>
+<em> <strong>The Journal of Conflict Resolution </strong> (Forthcoming). </em><br>
+ [<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/FPMNUZ" target = "blank_">Replication files</a>]<br> 
+ <br></li>
+ 
 <li><a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.1073/pnas.2417812122" target = "blank_"> <strong>Estimating the Legibility of International Borders</strong></a><br>
 Michael R. Kenwick, Junghyun Lim, Skyler Crane, Scott Wehrwein, and Beth A. Simmons. <br>
 <em> <strong>Proceedings of the National Academy of Sciences </strong> 122(6):https://doi.org/10.1073/pnas.2417812122 (2025). </em><br>
@@ -17,7 +23,7 @@ Michael R. Kenwick, Junghyun Lim, Skyler Crane, Scott Wehrwein, and Beth A. Simm
  
 <li><a style="text-decoration:none; color: #4682B4" href="https://journals.sagepub.com/doi/full/10.1177/00220027241268482" target = "blank_"> <strong>Explaining Public Demand for Border Militarization</strong></a><br>
 Michael R. Kenwick and <a style="text-decoration:none; color: #4682B4" href="https://sarahrmaxey.weebly.com/">Sarah R. Maxey</a> <br>
-<em> <strong>The Journal of Conflict Resolution </strong> (Forthcoming). </em><br>
+<em> <strong>The Journal of Conflict Resolution </strong> 69(6): 1005-1032. </em><br>
  [<a style="text-decoration:none; color: #4682B4" href="https://doi.org/10.7910/DVN/EKVWUC" target = "blank_">Replication files</a>]<br> 
  <br></li>
 
