@@ -127,6 +127,10 @@ Michael R. Kenwick, and <a style="text-decoration:none; color: #4682B4" href= "h
 <h2> Press and Media </h2>
 
 <ol>
+ <li> <a style="text-decoration:none; color: #4682B4" href="https://perryworldhouse.upenn.edu/news-and-insight/assessing-the-cases-against-militarized-border-enforcement/" target = "blank_"> <strong> Assessing the Cases Against Militarized Border Enforcement </strong> </a><br> 
+  Michael R. Kenwick<br> 
+<em> <strong>Perry World House (News and Insights)</strong></em> (January 16, 2025)<br> <br> </li> 
+ 
 <li> <a style="text-decoration:none; color: #4682B4" href="https://www.cnn.com/2019/02/01/opinions/border-wall-trump-barriers-on-rise-worldwide-simmons-kenwick/index.html" target = "blank_"> <strong> Border Barriers are on the Rise </strong> </a><br>
 <a style="text-decoration:none; color: #4682B4" href="https://www.law.upenn.edu/cf/faculty/simmons3/">Beth A. Simmons </a>and Michael R. Kenwick,<br> 
 <em> <strong>CNN (Opinion)</strong></em> (February 1, 2019)<br> <br> </li> 
