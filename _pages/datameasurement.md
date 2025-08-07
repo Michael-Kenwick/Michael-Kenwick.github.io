@@ -98,7 +98,7 @@ International Border Walls (coming "soon")
 
 <b>Citation of Record</b>
 <p style="margin-left: 40px">
-<strong>For BCW:</strong> <a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1111/ajps.12687" target = "blank_"> Michael R. Kenwick, Beth A. Simmons, and Richard J. McAlexander. 2023. “Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset.” The Journal of Peace Research. Online First.</a> <br> <br>
+<strong>For BCW:</strong> <a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1177/0022343322114558" target = "blank_"> Michael R. Kenwick, Beth A. Simmons, and Richard J. McAlexander. 2023. “Infrastructure and Authority at the State’s Edge: The Border Crossings of the World Dataset.” The Journal of Peace Research. Online First.</a> <br> <br>
 
 <strong>For Border Orientation Scores:</strong> <a style="text-decoration:none; color: #4682B4" href = "https://doi.org/10.1111/ajps.12687" target = "blank_"> Beth A. Simmons and Michael R. Kenwick. 2022. “Border Orientation in a Globalizing World.” American Journal of Political Science. 66(4): 853-870.</a>
  </p>
